@@ -1,7 +1,21 @@
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 </style>
 
 :root {
-    
-}
+    --cor-primaria-1: #2D232E;
+    --cor-primaria-2: #534B52;
+    --cor-primaria-3: #E0DDCF;
+    --cor-primaria-4: #474448;
+    --cor-bg: #F1F0EA;
+
+    --cor-branco: #fff;
+    --color-preto: #1d1d1d;0,
+    --cor-sombra: #rgba(0, 0, 0, 0.15)
+ 
+    --fonte: "Poppis", snas-serif;
+
+    --raio: 12px;
+    --transition: 0.3s ease;
+
+} 

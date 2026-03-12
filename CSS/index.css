@@ -10,7 +10,7 @@
     --cor-bg: #F1F0EA;
 
     --cor-branco: #fff;
-    --color-preto: #1d1d1d;0,
+    --color-preto: #1d1d1d; 0,
     --cor-sombra: #rgba(0, 0, 0, 0.15)
  
     --fonte: "Poppis", snas-serif;
@@ -19,3 +19,20 @@
     --transition: 0.3s ease;
 
 } 
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body {
+    font-family: var();
+    background: #1c5066;
+    background: linear-gradient(90deg, rgba(28, 80, 102, 1)0%, rgba(107, 130, 118, 1) 100%, rgba(237, 221, 83, 1));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}

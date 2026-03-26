@@ -3,8 +3,8 @@
 :root {
     --cor-primaria-1: #361134;
     --cor-primaria-2: #8f8b8e;
-    --cor-primaria-3: #EA3788;
-    --cor-primaria-4: #E56B70;
+    --cor-primaria-3: #995272;
+    --cor-primaria-4: #4d3738;
     --cor-bg: #F391A0;
 
     --cor-branco: #fff;
@@ -32,6 +32,7 @@ body {
     background: #EA3788;
     background: linear-gradient(90deg, rgba(234, 55, 136, 1) 0%, rgba(229, 107, 112, 1) 50%, rgba(243, 145, 160, 1) 100%);
     display: flex;
+    background: #EA3788;
     justify-content: center;
     align-items: center;
     min-height: 100vh;

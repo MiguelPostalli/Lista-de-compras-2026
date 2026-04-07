@@ -6,5 +6,18 @@
     "display":"standalone",
     "backgraud_color": "ffffff",
     "thene_color": "#b0228c",
-    
+    "icons": [
+        {
+            "src": "icons/icon-72x72.png",
+            "size":"96x96",
+            "type":"image/png"
+        },
+        {
+            "src": "icons/icon-72x72.png",
+            "size":"96x96",
+            "type":"image/png"
+        },
+
+  
+    ]
 }
